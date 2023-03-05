@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Faris Ramadhan</h1>
+<h1 align="left">Hi 👋, I'm Faris Infinity</h1>
 <h2 align="left">A student from Indonesia</h3>
 
 <h4 align="left">I'm interested in website dev, mobile dev, design, and artificial intelligence</h3>
